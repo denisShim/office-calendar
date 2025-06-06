@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/office-calendar/static/css/main.3c9aa650.css",
+    "main.js": "/office-calendar/static/js/main.314f3787.js",
+    "static/js/496.4baf54d6.chunk.js": "/office-calendar/static/js/496.4baf54d6.chunk.js",
+    "index.html": "/office-calendar/index.html",
+    "static/media/plus.svg": "/office-calendar/static/media/plus.8f3ab9f72337618f2823670542a3a8e4.svg",
+    "main.3c9aa650.css.map": "/office-calendar/static/css/main.3c9aa650.css.map",
+    "main.314f3787.js.map": "/office-calendar/static/js/main.314f3787.js.map",
+    "496.4baf54d6.chunk.js.map": "/office-calendar/static/js/496.4baf54d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9aa650.css",
+    "static/js/main.314f3787.js"
+  ]
+}
